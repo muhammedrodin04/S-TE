@@ -1,4 +1,0 @@
-flask
-httpx
-python-dotenv
-httpx[http2]
